@@ -77,4 +77,6 @@ Slicers for  Year, and Monthly to allow granular exploration of the data.
 • Customer Relationship Management: Detect which clients are consistently growing or dropping off, and adjust engagement strategies accordingly.
 
 6)Screenshots:
+link: (https://github.com/ArchiSaini18/PowerBi...Sales-Insight_Dashboard/blob/main/Sales_insight_image.png)
+
 
