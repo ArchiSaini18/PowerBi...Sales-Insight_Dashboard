@@ -1,4 +1,3 @@
-1)Topic:
 Sales Insight : Interactive Revenue & Customer Performance Dashboard
 A dynamic, interactive Power BI dashboard designed to deliver real-time insights into sales performance—highlighting top customers, revenue trends, high-performing products, and market segmentation by time.
 
